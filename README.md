@@ -5,6 +5,7 @@ https://heimat.cim.br/
 Desenvolvido com:
 - NextJs
 - ReactJs
+- Typescript
 - Styled Components
-- Acessibilidade
-- SEO
+- Boas práticas de acessibilidade
+- Otimização de SEO
